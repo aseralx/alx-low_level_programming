@@ -1,0 +1,50 @@
+ser@DESKTOP-8JPUAO0 MINGW64 ~
+$ ssh 4841872ebbae@4841872ebbae.6c9d29b3.alx-cod.online
+4841872ebbae@4841872ebbae.6c9d29b3.alx-cod.online's password:
+root@4841872ebbae:/# cd /root
+root@4841872ebbae:~# cd alx-low_level_programming/
+root@4841872ebbae:~/alx-low_level_programming# ls
+0-positive_or_negative.c  0x00-hello_world  0x01-variables_if_else_while  0x02-functions_nested_loops  0x04-more_functions_nested_loops
+root@4841872ebbae:~/alx-low_level_programming# cd 0x04-more_functions_nested_loops/
+root@4841872ebbae:~/alx-low_level_programming/0x04-more_functions_nested_loops# ls
+0-isupper.c          1-isdigit.c   2-mul.c            4-print_most_numbers.c  6-print_line.c      8-print_square.c  main.h
+10-print_triangle.c  1-isdigit.c~  3-print_numbers.c  5-more_numbers.c        7-print_diagonal.c  9-fizz_buzz.c     README.md
+root@4841872ebbae:~/alx-low_level_programming/0x04-more_functions_nested_loops# vim
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --                                                                                                                                                                  1,18          All
+
+
