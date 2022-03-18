@@ -3,7 +3,9 @@
 /**
  *  print_numbers - check the code
  *
- *  Return: always 0.
+ * Description: men agebachu
+ *
+ *  Return: void
  */
 
 void print_numbers(void)
