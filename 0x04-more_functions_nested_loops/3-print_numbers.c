@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- *  print_numbers - Entry
+ * print_numbers - Entry
  *
- * Description: prints the numbers  with
+ * Description: prints the numbers  with _putchar
  *
- *  Return: void
+ * Return: void
  */
 
 void print_numbers(void)
