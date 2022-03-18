@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *  print_numbers - check the code
+ *  print_numbers - Entry
  *
- * Description: men agebachu
+ * Description: prints the numbers  with
  *
  *  Return: void
  */
@@ -14,7 +14,7 @@ void print_numbers(void)
 
 	while (i <= 57)
 	{
-		putchar(i);
+		_putchar(i);
 		i++;
 	}
 	_putchar('\n');
