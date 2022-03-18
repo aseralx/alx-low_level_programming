@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_numbers - Entry
+ * print_numbers - entry point
  *
- * Description: prints the numbers  with _putchar
+ * Description: Prints the numbers  with _putchar
  *
  * Return: void
  */
@@ -12,9 +12,10 @@ void print_numbers(void)
 {
 	int i = 48;
 
-	while (i <= 57)
+	while (i < 58)
 	{
 		_putchar(i);
 		i++;
 	}
 	_putchar('\n');
+}
